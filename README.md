@@ -1,2 +1,2 @@
-# Izmylova.github.io
-My first sait
+Aliya Izmylova
+My first site
